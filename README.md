@@ -1,5 +1,3 @@
-# zest
-
 <h2>Client main 화면</h2>
   localhost:8080/zest/main
 
@@ -8,9 +6,9 @@
 
 <h2>기본 구성 소스 위치 </h2>
 
- main Source package : com.zest.web 
-   html source : webapp/WEB-INF/views
- css,js source : webapp/resource
+ main Source package : com.zest.web <br/>
+   html source : webapp/WEB-INF/views <br/>
+ css,js source : webapp/resource <br/>
 
 
 https://drive.google.com/drive/folders/1m6snG2xonN_bTM42jKCviXienDJjsV7E?usp=sharing
