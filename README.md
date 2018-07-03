@@ -6,15 +6,8 @@
 <h2>관리자 main 화면</h2>
   localhost:8080/admin/main
 
-<h2>기본 구성 환경 설정</h2>
+<h2>기본 구성 소스 위치 </h2>
 
- tomcat에서 project 추가시 root 주소 /zest 설정 
- tomcat server.xml 에 
- 
- <Host appBase="webapps" autoDeploy="true" name="localhost" unpackWARs="true">
-	<Con0text docBase="C:/zest/" path="/LocalImage" reloadable="false"/> 내용 추가		
- </Host>
-  
  main Source package : com.zest.web 
    html source : webapp/WEB-INF/views
  css,js source : webapp/resource
